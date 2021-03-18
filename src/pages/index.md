@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Your Data Center Solution Provider
-    subtitle: Optional hero section subtitle
+    subtitle: we care about your infrastructure
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
