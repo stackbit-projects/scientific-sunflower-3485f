@@ -7,7 +7,7 @@ sections:
     content: |
       Peace of mind with our infrastructure solutions, concentrate on business.
     actions:
-      - label: Try Free
+      - label: Have us call you
         url: /pricing
         style: primary
       - label: Learn More
