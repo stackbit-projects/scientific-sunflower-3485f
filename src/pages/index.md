@@ -4,9 +4,8 @@ sections:
   - type: hero_section
     title: Your Data Center Solution Provider
     subtitle: we care about your infrastructure
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+    content: |
+      Peace of mind with our infrastructure solutions, concentrate on business.
     actions:
       - label: Try Free
         url: /pricing
